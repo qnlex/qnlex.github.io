@@ -3,3 +3,32 @@ body
     background-color: #999999;
     font-family: 'Arial', cursive;
 }
+#ui
+{
+    text-align: center;
+}
+button
+{
+    background-color: #20BDF1;
+    font-family: 'Arial', cursive;
+    cursor: poiner;
+    border:none;
+    border-radius:2px;
+    font-size: 20px;
+}
+button:hover {
+    border: none;
+    background: #01B4EF;
+}
+#streamSettings
+{
+    font-size: 20px;
+}
+input
+{
+    text-align: center;
+}
+footer
+{
+    text-align: right;
+}
