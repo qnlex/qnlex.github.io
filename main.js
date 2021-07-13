@@ -11,4 +11,5 @@ function makePiano() {
         return false;
     }
   $("div#status").html("Your piano has been made");
+  return true;
 }
